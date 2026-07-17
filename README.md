@@ -5,6 +5,7 @@ NumPy
 Pandas
 Matplotlib
 Norma
+
 ![image alt](https://github.com/alberto-lopardo/monitoreo-ruido-ambiental-urbano/blob/main/fig1_serie_7dias.png?raw=true)
 
 ⚠️ Aviso: Proyecto de portafolio con datos 100% sintéticos generados
