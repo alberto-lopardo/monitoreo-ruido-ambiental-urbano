@@ -79,6 +79,6 @@ DS 38/11 Chile — Norma de emisión de ruidos molestos generados por fuentes fi
 Res. SRT 85/2012 Argentina — Límites de exposición al ruido en el trabajo
 👤 Autor
 Alberto Lopardo — Especialista en Acústica y Análisis de Señales
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/alberto-lopardo-acustica/
 
 Proyecto de portafolio — datos 100% sintéticos — sin relación con mediciones reales.
